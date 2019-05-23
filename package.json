@@ -1,0 +1,23 @@
+{
+  "name": "comp-2068js",
+  "version": "1.0.0",
+  "description": "blogging platform",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayanamirei629/COMP-2068JS.git"
+  },
+  "author": "Yingge Hu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayanamirei629/COMP-2068JS/issues"
+  },
+  "homepage": "https://github.com/ayanamirei629/COMP-2068JS#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
